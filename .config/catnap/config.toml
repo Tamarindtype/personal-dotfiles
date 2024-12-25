@@ -1,0 +1,76 @@
+# This is the configuration file for catnap.
+# Here you can configure the stat colors,
+# stat names, stat icons and more!
+#
+# https://github.com/iinsertNameHere/catnap
+
+#DEFAULT#
+# [stats]
+# username  = {icon = " ", name = "User", color = "(RD)"}
+# hostname  = {icon = " ", name = "Hostname", color = "(YW)"}
+# uptime    = {icon = "󰔚 ", name = "Uptime", color = "(BE)"}
+# sep_0       = "SEPARATOR"
+# distro    = {icon = " ", name = "Distro", color = "(GN)"}
+# kernel    = {icon = " ", name = "Kernel", color = "(MA)"}
+# desktop   = {icon = "󰇄 ", name = "Desktop", color = "(CN)"}
+# wWeather   = {icon = " ", name = "Weather", color = "(BE)"} # Requires curl and an emoji font. | WARNING: Re>
+# gpu       = {icon = " ", name = "GPU", color = "(MA)"} # WARNING: Resource Intensive
+# cpu       = {icon = " ", name = "CPU", color = "(RD)"}
+# battery   = {icon = " ", name = "Battery", color = "(GN)"}
+# memory    = {icon = " ", name = "Memory", color = "(YW)"}
+# sep_1       = "SEPARATOR"
+# terminal  = {icon = " ", name = "Terminal", color = "(RD)"}
+# shell     = {icon = " ", name = "Shell", color = "(MA)"}
+# packages  = {icon = "󰏖 ", name = "Packages", color = "(RD)"}  # WARNING: Resource Intensive
+# The following stats do not work on MacOS and the BSDs.
+# disk_0    = {icon = " ", name = "Disk", color = "(GN)"}
+# sep_color = "SEPARATOR"
+# colors    = {icon = " ", name = "Colors", color = "!DT!", symbol = ""}
+# COLOR     = (RD), (YW), (GN), (BE), (CN), (MA), (PK)
+
+##############################################
+##          FetchInfo stats Config          ##
+##############################################
+[stats]
+username  = {icon = " ", name = "User", color = "(YW)"}
+hostname  = {icon = " ", name = "Hostname", color = "(YW)"}
+uptime    = {icon = "󰔚 ", name = "Uptime", color = "(YW)"}
+sep_0       = "SEPARATOR"
+distro    = {icon = " ", name = "Distro", color = "(GN)"}
+kernel    = {icon = " ", name = "Kernel", color = "(GN)"}
+desktop   = {icon = "󰇄 ", name = "Desktop", color = "(GN)"}
+# gpu       = {icon = " ", name = "GPU", color = "(GN)"} # WARNING: Resource Intensive
+cpu       = {icon = " ", name = "CPU", color = "(GN)"}
+# battery   = {icon = " ", name = "Battery", color = "(GN)"}
+memory    = {icon = " ", name = "Memory", color = "(GN)"}
+sep_1       = "SEPARATOR"
+terminal  = {icon = " ", name = "Terminal", color = "(CN)"}
+shell     = {icon = " ", name = "Shell", color = "(CN)"}
+packages  = {icon = " ", name = "Packages", color = "(CN)"}  # WARNING: Resource Intensive
+# The following stats do not work on MacOS and the BSDs.
+# disk_0    = {icon = " ", name = "Disk", color = "(GN)"}
+sep_color = "SEPARATOR"
+weather   = {icon = " ", name = "Weather", color = "!DT!"} # Requires curl and an emoji font. | WARNING: Reso>
+colors    = {icon = " ", name = "Colors", color = "!DT!", symbol = " "}
+
+##############################################
+##               Misc Config                ##
+##############################################
+[misc]
+borderstyle = "line"
+layout = "Inline" # [Inline, ArtOnTop, StatsOnTop]
+stats_margin_top = 0
+location = "" # Used for fetching weather; leave empty to use the location of your IP; check https://wttr.in/:help for supported location types
+
+[misc.figletLogos] # Requires Figlet.
+enable = false
+color  = "(YW)"
+font   = "slant"
+margin = [0, 0, 0,]
+
+[misc.imageMode] # Requires Viu.
+enable = false
+path   = "/path/to/some/image.png" # Please only use absolute paths.
+scale  = 18
+margin = [2, 2, 3,]
+

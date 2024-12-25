@@ -1,0 +1,29 @@
+{
+    "theme_name": "Sleek",
+    "scheme_name": "Wallbash",
+    "schemes": {
+        "default": {},
+        "wallbash": {
+            "button": "AADBF0",
+            "button-active": "7AACC2",
+            "button-disabled": "1B1B29",
+            "button-secondary": "9ACFE6",
+            "card": "1B1B29",
+            "main": "1B1B29",
+            "main-secondary": "3A4A6B",
+            "misc": "272E3C",
+            "nav-active": "3A5C6B",
+            "nav-active-text": "E69A9C",
+            "notification": "1B1B29",
+            "notification-error": "1B1B29",
+            "play-button": "4B6E7D",
+            "playback-bar": "1B1B29",
+            "player": "1B1B29",
+            "shadow": "292952",
+            "sidebar": "1B1B29",
+            "subtext": "F0AAAC",
+            "tab-active": "272E3C",
+            "text": "FFCCCD"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+
+2024/12/05 (14:16:08) | ===> btop++ v.1.4.0
+2024/12/05 (14:16:08) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/05 (14:16:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/05 (14:16:08) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/05 (19:10:07) | ===> btop++ v.1.4.0
+2024/12/05 (19:10:07) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/05 (19:10:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/05 (19:10:07) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/05 (19:15:54) | ===> btop++ v.1.4.0
+2024/12/05 (19:15:54) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/05 (19:15:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/05 (19:15:54) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/05 (19:17:03) | ===> btop++ v.1.4.0
+2024/12/05 (19:17:03) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/05 (19:17:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/05 (19:17:03) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/06 (10:10:45) | ===> btop++ v.1.4.0
+2024/12/06 (10:10:45) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/06 (10:10:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/06 (10:10:45) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/06 (10:47:05) | ===> btop++ v.1.4.0
+2024/12/06 (10:47:05) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/06 (10:47:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/06 (10:47:05) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/18 (18:39:43) | ===> btop++ v.1.4.0
+2024/12/18 (18:39:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/18 (18:39:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/18 (18:39:43) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/19 (11:05:40) | ===> btop++ v.1.4.0
+2024/12/19 (11:05:40) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/19 (11:05:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/19 (11:05:40) | WARNING: Intel GPU: Failed to initialize PMU
+2024/12/19 (19:43:09) | ERROR: Stall in Runner thread, restarting!
+
+2024/12/19 (19:49:50) | ===> btop++ v.1.4.0
+2024/12/19 (19:49:50) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/19 (19:49:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/19 (19:49:50) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/23 (14:48:21) | ===> btop++ v.1.4.0
+2024/12/23 (14:48:21) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/23 (14:48:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/23 (14:48:21) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/23 (14:49:55) | ===> btop++ v.1.4.0
+2024/12/23 (14:49:55) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/23 (14:49:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/23 (14:49:55) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/23 (14:50:26) | ===> btop++ v.1.4.0
+2024/12/23 (14:50:26) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/23 (14:50:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/23 (14:50:26) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/23 (21:11:05) | ===> btop++ v.1.4.0
+2024/12/23 (21:11:05) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2024/12/23 (21:11:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2024/12/23 (21:11:05) | WARNING: Intel GPU: Failed to initialize PMU

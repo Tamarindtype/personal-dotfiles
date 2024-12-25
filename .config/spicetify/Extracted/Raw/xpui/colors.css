@@ -1,0 +1,52 @@
+:root {
+    --spice-nav-active: #3a5c6b;
+    --spice-playback-bar: #1b1b29;
+    --spice-highlight-elevated: #2a2a2a;
+    --spice-button: #aadbf0;
+    --spice-nav-active-text: #e69a9c;
+    --spice-play-button: #4b6e7d;
+    --spice-sidebar: #1b1b29;
+    --spice-text: #ffcccd;
+    --spice-button-disabled: #1b1b29;
+    --spice-notification-error: #1b1b29;
+    --spice-tab-active: #272e3c;
+    --spice-subtext: #f0aaac;
+    --spice-highlight: #1a1a1a;
+    --spice-player: #1b1b29;
+    --spice-button-secondary: #9acfe6;
+    --spice-notification: #1b1b29;
+    --spice-button-active: #7aacc2;
+    --spice-main-elevated: #242424;
+    --spice-main-secondary: #3a4a6b;
+    --spice-card: #1b1b29;
+    --spice-misc: #272e3c;
+    --spice-shadow: #292952;
+    --spice-main: #1b1b29;
+    --spice-selected-row: #ffffff;
+
+    --spice-rgb-nav-active: 58,92,107;
+    --spice-rgb-playback-bar: 27,27,41;
+    --spice-rgb-highlight-elevated: 42,42,42;
+    --spice-rgb-button: 170,219,240;
+    --spice-rgb-nav-active-text: 230,154,156;
+    --spice-rgb-play-button: 75,110,125;
+    --spice-rgb-sidebar: 27,27,41;
+    --spice-rgb-text: 255,204,205;
+    --spice-rgb-button-disabled: 27,27,41;
+    --spice-rgb-notification-error: 27,27,41;
+    --spice-rgb-tab-active: 39,46,60;
+    --spice-rgb-subtext: 240,170,172;
+    --spice-rgb-highlight: 26,26,26;
+    --spice-rgb-player: 27,27,41;
+    --spice-rgb-button-secondary: 154,207,230;
+    --spice-rgb-notification: 27,27,41;
+    --spice-rgb-button-active: 122,172,194;
+    --spice-rgb-main-elevated: 36,36,36;
+    --spice-rgb-main-secondary: 58,74,107;
+    --spice-rgb-card: 27,27,41;
+    --spice-rgb-misc: 39,46,60;
+    --spice-rgb-shadow: 41,41,82;
+    --spice-rgb-main: 27,27,41;
+    --spice-rgb-selected-row: 255,255,255;
+
+}
